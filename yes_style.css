@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #F8C8DC;
+    background-color: rgb(137, 124, 201);
 }
 
 /* Position the "No" button absolutely within body */
@@ -24,10 +24,10 @@ body {
     font-family: 'Nunito';
     font-size: 50px;
     font-weight: bold;
-    color: white;
+    color: rgb(14, 14, 14);
     text-align: center;
     margin-top: 20px;
-    margin-bottom: 0px;
+    margin-bottom: 40px;
 }
 
 .text {
