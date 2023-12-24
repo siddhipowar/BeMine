@@ -1,4 +1,3 @@
-Please say yes!
+Express your love to that special person!
 
-From, 
-Siddhi
+Check out this website: https://main.d2uq7jegvpmsve.amplifyapp.com/
